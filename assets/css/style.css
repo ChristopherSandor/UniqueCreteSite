@@ -977,7 +977,7 @@ section {
 .services .icon-box i {
   float: left;
   color: #5c8eb0;
-  font-size: 40px;
+  font-size: 35px;
   line-height: 0;
   transition: ease-in-out;
 }
@@ -986,7 +986,7 @@ section {
   margin-left: 70px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 22px;
+  font-size: 25px;
 }
 
 .services .icon-box h4 a {
@@ -1698,7 +1698,7 @@ section {
 /* CUSTOM CSS */
 
 .fillerCustom{
-  height: 7vw;
+  height: 8vw;
 }
 .fullBackgroundNavbar{
   background: rgba(21, 34, 43, 0.85);
@@ -1721,3 +1721,4 @@ section {
 #myVideo{
   width: 100%;
 }
+
